@@ -1,4 +1,4 @@
-# Sistema de Locadora de Veículos em Java
+# Sistema de Locadora de Veículos em Java.
 Este projeto é um sistema simples de locadora de veículos criado em Java. O programa calcula o valor da locação com base na duração do aluguel (horária ou diária) e adiciona o imposto conforme as regras fiscais brasileiras. O programa garante que dados inválidos não sejam aceitos, conforme as seguintes regras:
 
 - **Cobrança por Hora**: Para locações de até 12 horas, o valor é calculado com base na tarifa horária.
